@@ -66,8 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `yarn build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
+# This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 # adboard
+
 A board for ads
->>>>>>> ff0b9d91ba52fd211881b373ef5841c5c68f1c75
+
+> > > > > > > ff0b9d91ba52fd211881b373ef5841c5c68f1c75
